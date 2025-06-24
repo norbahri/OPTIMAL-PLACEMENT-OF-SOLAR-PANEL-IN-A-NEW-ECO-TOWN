@@ -1,2 +1,6 @@
-# OPTIMAL-PLACEMENT-OF-SOLAR-PANEL-IN-A-NEW-ECO-TOWN
-Presented By :  ISLAM ALIMUR 218424 MUHAMMAD DANIAL HAIKAL BIN ABDULLAH 223875  MUHAMMAD NAZIF BIN NORBAHRI 222314 MUHAMMAD FAIRUZ BIN KAMARUDIN 224899
+Optimal Placement Of Solar Panel In Eco Town ☀️
+Prepared By :  
+Islam Alimur 218424 
+Muhammad Danial Haikal Bin Abdullah 223875  
+Muhammad Nazif Bin Norbahri 222314 
+Muhammad Fairuz Bin Kamarudin 224899
